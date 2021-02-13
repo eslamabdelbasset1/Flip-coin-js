@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no"
+		/>
+		<title>Web Folk</title>
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="CSS/bootstrap.min.css" />
+		<link rel="stylesheet" href="CSS/style.css" />
+		<link rel="stylesheet" href="CSS/font-awesome.min.css" />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=PT+Sans&amp;display=swap"
+		/>
+	</head>
+	<body>
+		<header>
+			<nav class="navbar navbar-expand-lg navbar-light">
+				<button
+					class="navbar-toggler"
+					type="button"
+					data-toggle="collapse"
+					data-target="#navbarSupportedContent"
+					aria-controls="navbarSupportedContent"
+					aria-expanded="false"
+					aria-label="Toggle navigation"
+				>
+					<span class="navbar-toggler-icon"></span>
+				</button>
+
+				<div
+					class="collapse navbar-collapse ul__links"
+					id="navbarSupportedContent"
+				>
+					<ul class="navbar-nav m-auto links">
+						<li class="nav-item">
+							<a class="nav-link" href="#">Home</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">contact</a>
+						</li>
+
+						<li class="nav-item">
+							<a class="nav-link" href="#">book online</a>
+						</li>
+						<li class="nav-item login">
+							<a class="nav-link" href="#"
+								><i class="icon fa fa-sign-in"></i>login</a
+							>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+		<!-- Contact Section -->
+		<section class="contant">
+			<div class="container">
+				<div class="contant-section">
+					<div class="info">
+						<h1 class="title">web folk</h1>
+						<span class="subtitle h3">web design studio</span>
+						<p class="lead">
+							we dream, explore, create and craft<br />progressive
+							digital expreince.
+						</p>
+					</div>
+					<div class="bollets">
+						<span class="bollet"></span>
+						<span class="bollet"></span>
+						<span class="bollet"></span>
+					</div>
+					<div class="client">
+						<span class="btn">work &amp; clients</span>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Work Section -->
+		<section>
+			<div class="works">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_4.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_2.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_1.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_3.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_6.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_7.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_8.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_5.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_12.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_10.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_11.jpg" alt="works" />
+						</div>
+						<div class="work-item col-md-3 col-sm-6 col-6">
+							<img src="image/image_9.jpg" alt="works" />
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="works-info">
+				<div class="container-fluid">
+					<p>
+						We design great websites and all sorts of interactive
+						products from start to finish
+					</p>
+				</div>
+			</div>
+		</section>
+		<!-- Team Section -->
+		<section class="team">
+			<h3 class="main-title">meet the folks:</h3>
+			<div class="container">
+				<div class="items">
+					<div class="row">
+						<div class="team-item col-lg-6 col-12">
+							<div class="team__item-img">
+								<img src="image/Person_1.jpg" alt="team" />
+							</div>
+							<div class="team-info">
+								<h3 class="team__info-title">andreas</h3>
+								<span class="team__info-subtitle"
+									>co founder &amp; developer</span
+								>
+							</div>
+						</div>
+						<div class="team-item col-lg-6 col-12">
+							<div class="team__item-img">
+								<img src="image/Person_2.jpg" alt="team" />
+							</div>
+							<div class="team-info">
+								<h3 class="team__info-title">matt</h3>
+								<span class="team__info-subtitle"
+									>co founder &amp; creative director</span
+								>
+							</div>
+						</div>
+						<div class="team-item col-lg-6 col-12">
+							<div class="team__item-img">
+								<img src="image/Person_2.jpg" alt="team" />
+							</div>
+							<div class="team-info">
+								<h3 class="team__info-title">dustin</h3>
+								<span class="team__info-subtitle"
+									>designer & front end developer</span
+								>
+							</div>
+						</div>
+						<div class="team-item col-lg-6 col-12">
+							<div class="team__item-img">
+								<img src="image/Person_4.jpg" alt="team" />
+							</div>
+							<div class="team-info">
+								<h3 class="team__info-title">anna</h3>
+								<span class="team__info-subtitle"
+									>designer</span
+								>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<a href="#" class="contact-us">contact us</a>
+		</section>
+		<!-- About Section -->
+		<section class="about-us">
+			<div class="content">
+				<div class="row">
+					<div class="content-item col-lg-6 col-12">
+						<h2 class="title">what we do</h2>
+						<p>
+							I'm a paragraph. Click here to add your own text and
+							edit me. It’s easy. Just click “Edit Text” or double
+							click me to add your own content and make changes to
+							the font. Feel free to drag and drop me anywhere you
+							like on your page. I’m a great place for you to tell
+							a story and let your users know a little more about
+							you. This is a great space to write long text about
+							your company and your services.<br /><br />You can
+							use this space to go into a little more detail about
+							your company. Talk about your team and what services
+							you provide. Tell your visitors the story of how you
+							came up with the idea for your business and what
+							makes you different from your competitors. Make your
+							company stand out and show your visitors who you
+							are.
+						</p>
+					</div>
+					<div class="content-item col-lg-6 col-12">
+						<h2 class="title">what we are</h2>
+						<p>
+							I'm a paragraph. Click here to add your own text and
+							edit me. It’s easy. Just click “Edit Text” or double
+							click me to add your own content and make changes to
+							the font. Feel free to drag and drop me anywhere you
+							like on your page. I’m a great place for you to tell
+							a story and let your users know a little more about
+							you. This is a great space to write long text about
+							your company and your services.<br /><br />You can
+							use this space to go into a little more detail about
+							your company. Talk about your team and what services
+							you provide. Tell your visitors the story of how you
+							came up with the idea for your business and what
+							makes you different from your competitors. Make your
+							company stand out and show your visitors who you
+							are.
+						</p>
+					</div>
+					<div class="content-item col-lg-6 col-12">
+						<div class="bollets">
+							<span class="bollet"></span>
+							<span class="bollet"></span>
+							<span class="bollet"></span>
+						</div>
+						<h2 class="title">how we work</h2>
+						<p>
+							I'm a paragraph. Click here to add your own text and
+							edit me. It’s easy. Just click “Edit Text” or double
+							click me to add your own content and make changes to
+							the font. Feel free to drag and drop me anywhere you
+							like on your page. I’m a great place for you to tell
+							a story and let your users know a little more about
+							you. This is a great space to write long text about
+							your company and your services.<br /><br />You can
+							use this space to go into a little more detail about
+							your company. Talk about your team and what services
+							you provide. Tell your visitors the story of how you
+							came up with the idea for your business and what
+							makes you different from your competitors. Make your
+							company stand out and show your visitors who you
+							are.
+						</p>
+					</div>
+					<div class="content-item col-lg-6 col-12">
+						<div class="bollets">
+							<span class="bollet"></span>
+							<span class="bollet"></span>
+							<span class="bollet"></span>
+						</div>
+						<h2 class="title">what we believe</h2>
+						<p>
+							I'm a paragraph. Click here to add your own text and
+							edit me. It’s easy. Just click “Edit Text” or double
+							click me to add your own content and make changes to
+							the font. Feel free to drag and drop me anywhere you
+							like on your page. I’m a great place for you to tell
+							a story and let your users know a little more about
+							you. This is a great space to write long text about
+							your company and your services.<br /><br />You can
+							use this space to go into a little more detail about
+							your company. Talk about your team and what services
+							you provide. Tell your visitors the story of how you
+							came up with the idea for your business and what
+							makes you different from your competitors. Make your
+							company stand out and show your visitors who you
+							are.
+						</p>
+					</div>
+				</div>
+			</div>
+			<a href="#" class="contact-us">back to top</a>
+		</section>
+		<!-- FOOTER -->
+		<footer>
+			<div class="container-fluid">
+				<p>
+					&copy 2023 by web folk. proudly created with
+					<span class="design">wix.com</span>
+				</p>
+			</div>
+		</footer>
+		<!-- Script -->
+		<script src="JS/jquery-3.5.1.min.js"></script>
+		<script src="JS/popper.min.js"></script>
+		<script src="JS/bootstrap.min.js"></script>
+	</body>
+</html>
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+	font-family: "PT Sans", sans-serif;
+}
+:root {
+	--maincolor: #ff0157;
+	--subcolor: #1d2d50;
+	--subcolor2: #444;
+	--grayy: #eeeded;
+	--white: #fff;
+	--backgroun: #f3f3f3;
+	--black: #000;
+	--header: #f9f9fa;
+}
+
+/* Common Style */
+.bollets .bollet {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	display: block;
+	background: var(--white);
+	margin: 40px auto;
+	cursor: pointer;
+}
+
+.bollets .bollet:hover {
+	background: var(--maincolor);
+}
+.client:after,
+.works-info:after {
+	position: absolute;
+	content: "";
+	height: 31px;
+	top: 100%;
+	margin-top: -5px;
+	border-top: 0px solid var(--maincolor);
+	border-right: 2px solid var(--maincolor);
+	border-bottom: 2px solid var(--maincolor);
+	border-left: 0px solid var(--maincolor);
+	transform: rotate(45deg) translateX(-50%);
+	background: var(--maincolor);
+}
+.contact-us {
+	display: block;
+	width: 165px;
+	margin: 40px auto 30px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 20px;
+	color: var(--white);
+	background: var(--black);
+	padding: 10px 20px;
+	border-radius: 25px;
+	letter-spacing: 1px;
+	transition: background 0.5s;
+}
+.contact-us:hover {
+	background: var(--maincolor);
+	color: var(--white);
+	text-decoration: none;
+}
+
+/* header section */
+header {
+	background: var(--header);
+	padding: 10px 0;
+}
+.ul__links .links li {
+	margin: 0 10px;
+}
+.ul__links .links li .nav-link {
+	color: var(--maincolor);
+	font-size: 18px;
+	text-transform: capitalize;
+}
+
+.ul__links .links .login {
+	padding-left: 20px;
+	margin-left: 20px;
+}
+
+.ul__links .links .login .icon {
+	margin-right: 8px;
+}
+
+/* Contant Section */
+.contant {
+	background: url("../image/web.jpeg");
+	background-size: cover;
+}
+.contant-section {
+	text-align: center;
+	z-index: 5;
+	padding: 130px 0;
+}
+
+.info .title {
+	color: var(--white);
+	font-size: 5em;
+	font-weight: 500;
+	font-style: italic;
+}
+
+.info .subtitle {
+	display: block;
+	color: var(--white);
+	margin-top: 30px;
+}
+
+.info p {
+	margin: 50px 0;
+	color: var(--white);
+	line-height: 1.8;
+	letter-spacing: 1px;
+}
+.client {
+	background: var(--maincolor);
+	position: relative;
+	width: 230px;
+	margin: 0 auto;
+	padding: 10px;
+	z-index: 1000;
+}
+
+.client:after {
+	width: 31px;
+	left: 48.5%;
+}
+
+.client .btn {
+	display: block;
+	color: var(--white);
+	text-decoration: none;
+	text-transform: capitalize;
+	text-align: center;
+	font-size: 22px;
+	letter-spacing: 1px;
+}
+
+/* Works Section */
+.works {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin-top: -130px;
+}
+.works .work-item {
+	width: 25%;
+}
+.work-item img {
+	width: 100%;
+}
+
+.works-info {
+	background: var(--maincolor);
+	position: relative;
+	margin: -5px 0 24px;
+}
+
+.works-info p {
+	color: var(--white);
+	text-align: center;
+	font-size: 20px;
+	padding: 20px 0px;
+}
+
+.works-info:after {
+	width: 35px;
+	left: 50%;
+}
+
+/* Team Section */
+.team {
+	background: var(--backgroun);
+	padding: 40px 0;
+	margin-top: -25px;
+	text-align: center;
+}
+
+.team .main-title,
+.team__info-title {
+	text-align: center;
+	color: var(--maincolor);
+	text-transform: capitalize;
+	font-size: 30px;
+	font-weight: 500;
+}
+
+.team .items {
+	width: 69%;
+	margin: 20px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.team .items .team-item {
+	width: 50%;
+	margin: 15px 0;
+}
+.team__item-img {
+	width: 100%;
+	object-fit: cover;
+}
+.team__info-title {
+	margin: 10px 0;
+}
+.team__info-subtitle {
+	color: var(--subcolor2);
+	text-transform: capitalize;
+	display: block;
+	text-align: center;
+	font-size: 17px;
+}
+
+/* About-Us Section */
+.about-us {
+	padding: 50px 0;
+	background: url("../image/Cover_2.jpg");
+	background-size: cover;
+}
+
+.content {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 70%;
+	margin: auto;
+}
+.content-item {
+	width: 45%;
+	padding: 0 50px;
+}
+.content-item .title {
+	color: var(--white);
+	font-size: 3rem;
+	margin-bottom: 15px;
+}
+.content-item p {
+	color: var(--white);
+	line-height: 1.6;
+}
+.content-item .bollets .bollet {
+	display: inline-block;
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+	margin: 20px 10px 30px;
+}
+.about-us .contact-us {
+	width: 180px;
+	padding: 10px 20px;
+	margin-top: 100px;
+	background: var(--white);
+	color: var(--subcolor2);
+	transition: background 0.4s, color 0.5;
+}
+.about-us .contact-us:hover {
+	color: var(--white);
+	background: var(--maincolor);
+}
+
+/* Footer */
+footer {
+	text-align: center;
+	padding: 10px;
+	background: var(--grayy);
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+	text-transform: capitalize;
+	font-size: 17px;
+	margin: auto 0;
+	color: #db6400;
+	word-spacing: 1px;
+}
+
+footer span.design {
+	display: inline-block;
+	text-transform: uppercase;
+	color: #b83b5e;
+	cursor: pointer;
+}
+
+footer span.design:hover {
+	color: var(--maincolor);
+}
+
+/* Responsive */
+@media (max-width: 575px) {
+	/* Header Sction */
+	.ul__links .links .login {
+		padding-left: 0;
+		margin-left: 10px;
+	}
+
+	/* Work Section */
+	.row .col-sm-6 {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.works-info p {
+		font-size: 17px;
+	}
+
+	/* About Section */
+	.content-item {
+		margin: 20px 0;
+	}
+	.content-item .title {
+		font-size: 2rem;
+		text-align: center;
+	}
+	.content-item p {
+		text-align: center;
+	}
+	.content-item .bollets {
+		text-align: center;
+	}
+
+	/* footer */
+	footer p {
+		font-size: 14px;
+	}
+}
+
+@media (min-width: 576px) {
+	/* Header Sction */
+	.ul__links .links .login {
+		padding-left: 0;
+		margin-left: 10px;
+	}
+
+	/* Work Section */
+	.works .row .col-sm-6 {
+		padding-right: 0;
+		padding-left: 0;
+	}
+	.works-info p {
+		font-size: 17px;
+	}
+
+	/* About Section */
+	.content-item {
+		margin: 20px 0;
+	}
+	.content-item .title {
+		font-size: 2.5rem;
+		text-align: center;
+	}
+	.content-item p {
+		text-align: center;
+	}
+	.content-item .bollets {
+		text-align: center;
+	}
+}
+
+@media (min-width: 768px) {
+	/* Header Sction */
+	.ul__links .links .login {
+		padding-left: 0;
+		margin-left: 10px;
+	}
+
+	/* Works Section */
+	.works-info p {
+		font-size: 20px;
+	}
+
+	/* About Section */
+	.content-item {
+		margin: 20px 0;
+	}
+	.content-item .title {
+		font-size: 2.5rem;
+		text-align: center;
+	}
+	.content-item p {
+		text-align: center;
+	}
+	.content-item .bollets {
+		text-align: center;
+	}
+}
+
+@media (min-width: 992px) {
+	/* Team Section */
+	.team .items {
+		width: 80%;
+	}
+
+	/* About Section */
+	.content-item .title {
+		font-size: 2.3rem;
+		text-align: left;
+	}
+	.content-item p {
+		text-align: left;
+	}
+}
+
+@media (min-width: 1200px) {
+	/* Team Section */
+	.team .items {
+		width: 69%;
+	}
+}
